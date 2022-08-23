@@ -1,8 +1,6 @@
----
-title: "Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK"
-author: "Author: Andreas Höhn"
-date: "Date: 2022-08-23"
----
+**title:** "Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK"
+**author:** "Author: Andreas Höhn"
+**date:** "Date: 2022-08-23"
 
 # Summary
 Quality-Adjusted Life Expectancy (QALE) is an intuitive summary measure of 

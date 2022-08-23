@@ -1,0 +1,364 @@
+"deaths","pop","check"
+"Aberdeen City","Aberdeen City",TRUE
+"Aberdeenshire","Aberdeenshire",TRUE
+"Adur","Adur",TRUE
+"Allerdale","Allerdale",TRUE
+"Amber Valley","Amber Valley",TRUE
+"Angus","Angus",TRUE
+"Argyll and Bute","Argyll and Bute",TRUE
+"Arun","Arun",TRUE
+"Ashfield","Ashfield",TRUE
+"Ashford","Ashford",TRUE
+"Babergh","Babergh",TRUE
+"Barking and Dagenham","Barking and Dagenham",TRUE
+"Barnet","Barnet",TRUE
+"Barnsley","Barnsley",TRUE
+"Barrow-in-Furness","Barrow-in-Furness",TRUE
+"Basildon","Basildon",TRUE
+"Basingstoke and Deane","Basingstoke and Deane",TRUE
+"Bassetlaw","Bassetlaw",TRUE
+"Bath and North East Somerset","Bath and North East Somerset",TRUE
+"Bedford","Bedford",TRUE
+"Bexley","Bexley",TRUE
+"Birmingham","Birmingham",TRUE
+"Blaby","Blaby",TRUE
+"Blackburn with Darwen","Blackburn with Darwen",TRUE
+"Blackpool","Blackpool",TRUE
+"Blaenau Gwent","Blaenau Gwent",TRUE
+"Bolsover","Bolsover",TRUE
+"Bolton","Bolton",TRUE
+"Boston","Boston",TRUE
+"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",TRUE
+"Bracknell Forest","Bracknell Forest",TRUE
+"Bradford","Bradford",TRUE
+"Braintree","Braintree",TRUE
+"Breckland","Breckland",TRUE
+"Brent","Brent",TRUE
+"Brentwood","Brentwood",TRUE
+"Bridgend","Bridgend",TRUE
+"Brighton and Hove","Brighton and Hove",TRUE
+"Bristol, City of","Bristol, City of",TRUE
+"Broadland","Broadland",TRUE
+"Bromley","Bromley",TRUE
+"Bromsgrove","Bromsgrove",TRUE
+"Broxbourne","Broxbourne",TRUE
+"Broxtowe","Broxtowe",TRUE
+"Buckinghamshire","Buckinghamshire",TRUE
+"Burnley","Burnley",TRUE
+"Bury","Bury",TRUE
+"Caerphilly","Caerphilly",TRUE
+"Calderdale","Calderdale",TRUE
+"Cambridge","Cambridge",TRUE
+"Camden","Camden",TRUE
+"Cannock Chase","Cannock Chase",TRUE
+"Canterbury","Canterbury",TRUE
+"Cardiff","Cardiff",TRUE
+"Carlisle","Carlisle",TRUE
+"Carmarthenshire","Carmarthenshire",TRUE
+"Castle Point","Castle Point",TRUE
+"Central Bedfordshire","Central Bedfordshire",TRUE
+"Ceredigion","Ceredigion",TRUE
+"Charnwood","Charnwood",TRUE
+"Chelmsford","Chelmsford",TRUE
+"Cheltenham","Cheltenham",TRUE
+"Cherwell","Cherwell",TRUE
+"Cheshire East","Cheshire East",TRUE
+"Cheshire West and Chester","Cheshire West and Chester",TRUE
+"Chesterfield","Chesterfield",TRUE
+"Chichester","Chichester",TRUE
+"Chorley","Chorley",TRUE
+"City of Edinburgh","City of Edinburgh",TRUE
+"City of London","City of London",TRUE
+"Clackmannanshire","Clackmannanshire",TRUE
+"Colchester","Colchester",TRUE
+"Conwy","Conwy",TRUE
+"Copeland","Copeland",TRUE
+"Cornwall","Cornwall",TRUE
+"Cotswold","Cotswold",TRUE
+"County Durham","County Durham",TRUE
+"Coventry","Coventry",TRUE
+"Craven","Craven",TRUE
+"Crawley","Crawley",TRUE
+"Croydon","Croydon",TRUE
+"Dacorum","Dacorum",TRUE
+"Darlington","Darlington",TRUE
+"Dartford","Dartford",TRUE
+"Denbighshire","Denbighshire",TRUE
+"Derby","Derby",TRUE
+"Derbyshire Dales","Derbyshire Dales",TRUE
+"Doncaster","Doncaster",TRUE
+"Dorset","Dorset",TRUE
+"Dover","Dover",TRUE
+"Dudley","Dudley",TRUE
+"Dumfries and Galloway","Dumfries and Galloway",TRUE
+"Dundee City","Dundee City",TRUE
+"Ealing","Ealing",TRUE
+"East Ayrshire","East Ayrshire",TRUE
+"East Cambridgeshire","East Cambridgeshire",TRUE
+"East Devon","East Devon",TRUE
+"East Dunbartonshire","East Dunbartonshire",TRUE
+"East Hampshire","East Hampshire",TRUE
+"East Hertfordshire","East Hertfordshire",TRUE
+"East Lindsey","East Lindsey",TRUE
+"East Lothian","East Lothian",TRUE
+"East Renfrewshire","East Renfrewshire",TRUE
+"East Riding of Yorkshire","East Riding of Yorkshire",TRUE
+"East Staffordshire","East Staffordshire",TRUE
+"East Suffolk","East Suffolk",TRUE
+"Eastbourne","Eastbourne",TRUE
+"Eastleigh","Eastleigh",TRUE
+"Eden","Eden",TRUE
+"Elmbridge","Elmbridge",TRUE
+"Enfield","Enfield",TRUE
+"Epping Forest","Epping Forest",TRUE
+"Epsom and Ewell","Epsom and Ewell",TRUE
+"Erewash","Erewash",TRUE
+"Exeter","Exeter",TRUE
+"Falkirk","Falkirk",TRUE
+"Fareham","Fareham",TRUE
+"Fenland","Fenland",TRUE
+"Fife","Fife",TRUE
+"Flintshire","Flintshire",TRUE
+"Folkestone and Hythe","Folkestone and Hythe",TRUE
+"Forest of Dean","Forest of Dean",TRUE
+"Fylde","Fylde",TRUE
+"Gateshead","Gateshead",TRUE
+"Gedling","Gedling",TRUE
+"Glasgow City","Glasgow City",TRUE
+"Gloucester","Gloucester",TRUE
+"Gosport","Gosport",TRUE
+"Gravesham","Gravesham",TRUE
+"Great Yarmouth","Great Yarmouth",TRUE
+"Greenwich","Greenwich",TRUE
+"Guildford","Guildford",TRUE
+"Gwynedd","Gwynedd",TRUE
+"Hackney","Hackney",TRUE
+"Halton","Halton",TRUE
+"Hambleton","Hambleton",TRUE
+"Hammersmith and Fulham","Hammersmith and Fulham",TRUE
+"Harborough","Harborough",TRUE
+"Haringey","Haringey",TRUE
+"Harlow","Harlow",TRUE
+"Harrogate","Harrogate",TRUE
+"Harrow","Harrow",TRUE
+"Hart","Hart",TRUE
+"Hartlepool","Hartlepool",TRUE
+"Hastings","Hastings",TRUE
+"Havant","Havant",TRUE
+"Havering","Havering",TRUE
+"Herefordshire, County of","Herefordshire, County of",TRUE
+"Hertsmere","Hertsmere",TRUE
+"High Peak","High Peak",TRUE
+"Highland","Highland",TRUE
+"Hillingdon","Hillingdon",TRUE
+"Hinckley and Bosworth","Hinckley and Bosworth",TRUE
+"Horsham","Horsham",TRUE
+"Hounslow","Hounslow",TRUE
+"Huntingdonshire","Huntingdonshire",TRUE
+"Hyndburn","Hyndburn",TRUE
+"Inverclyde","Inverclyde",TRUE
+"Ipswich","Ipswich",TRUE
+"Isle of Anglesey","Isle of Anglesey",TRUE
+"Isle of Wight","Isle of Wight",TRUE
+"Isles of Scilly","Isles of Scilly",TRUE
+"Islington","Islington",TRUE
+"Kensington and Chelsea","Kensington and Chelsea",TRUE
+"King's Lynn and West Norfolk","King's Lynn and West Norfolk",TRUE
+"Kingston upon Hull, City of","Kingston upon Hull, City of",TRUE
+"Kingston upon Thames","Kingston upon Thames",TRUE
+"Kirklees","Kirklees",TRUE
+"Knowsley","Knowsley",TRUE
+"Lambeth","Lambeth",TRUE
+"Lancaster","Lancaster",TRUE
+"Leeds","Leeds",TRUE
+"Leicester","Leicester",TRUE
+"Lewes","Lewes",TRUE
+"Lewisham","Lewisham",TRUE
+"Lichfield","Lichfield",TRUE
+"Lincoln","Lincoln",TRUE
+"Liverpool","Liverpool",TRUE
+"Luton","Luton",TRUE
+"Maidstone","Maidstone",TRUE
+"Maldon","Maldon",TRUE
+"Malvern Hills","Malvern Hills",TRUE
+"Manchester","Manchester",TRUE
+"Mansfield","Mansfield",TRUE
+"Medway","Medway",TRUE
+"Melton","Melton",TRUE
+"Mendip","Mendip",TRUE
+"Merthyr Tydfil","Merthyr Tydfil",TRUE
+"Merton","Merton",TRUE
+"Mid Devon","Mid Devon",TRUE
+"Mid Suffolk","Mid Suffolk",TRUE
+"Mid Sussex","Mid Sussex",TRUE
+"Middlesbrough","Middlesbrough",TRUE
+"Midlothian","Midlothian",TRUE
+"Milton Keynes","Milton Keynes",TRUE
+"Mole Valley","Mole Valley",TRUE
+"Monmouthshire","Monmouthshire",TRUE
+"Moray","Moray",TRUE
+"Na h-Eileanan Siar","Na h-Eileanan Siar",TRUE
+"Neath Port Talbot","Neath Port Talbot",TRUE
+"New Forest","New Forest",TRUE
+"Newark and Sherwood","Newark and Sherwood",TRUE
+"Newcastle-under-Lyme","Newcastle-under-Lyme",TRUE
+"Newcastle upon Tyne","Newcastle upon Tyne",TRUE
+"Newham","Newham",TRUE
+"Newport","Newport",TRUE
+"North Ayrshire","North Ayrshire",TRUE
+"North Devon","North Devon",TRUE
+"North East Derbyshire","North East Derbyshire",TRUE
+"North East Lincolnshire","North East Lincolnshire",TRUE
+"North Hertfordshire","North Hertfordshire",TRUE
+"North Kesteven","North Kesteven",TRUE
+"North Lanarkshire","North Lanarkshire",TRUE
+"North Lincolnshire","North Lincolnshire",TRUE
+"North Norfolk","North Norfolk",TRUE
+"North Northamptonshire","North Northamptonshire",TRUE
+"North Somerset","North Somerset",TRUE
+"North Tyneside","North Tyneside",TRUE
+"North Warwickshire","North Warwickshire",TRUE
+"North West Leicestershire","North West Leicestershire",TRUE
+"Northumberland","Northumberland",TRUE
+"Norwich","Norwich",TRUE
+"Nottingham","Nottingham",TRUE
+"Nuneaton and Bedworth","Nuneaton and Bedworth",TRUE
+"Oadby and Wigston","Oadby and Wigston",TRUE
+"Oldham","Oldham",TRUE
+"Orkney Islands","Orkney Islands",TRUE
+"Oxford","Oxford",TRUE
+"Pembrokeshire","Pembrokeshire",TRUE
+"Pendle","Pendle",TRUE
+"Perth and Kinross","Perth and Kinross",TRUE
+"Peterborough","Peterborough",TRUE
+"Plymouth","Plymouth",TRUE
+"Portsmouth","Portsmouth",TRUE
+"Powys","Powys",TRUE
+"Preston","Preston",TRUE
+"Reading","Reading",TRUE
+"Redbridge","Redbridge",TRUE
+"Redcar and Cleveland","Redcar and Cleveland",TRUE
+"Redditch","Redditch",TRUE
+"Reigate and Banstead","Reigate and Banstead",TRUE
+"Renfrewshire","Renfrewshire",TRUE
+"Rhondda Cynon Taff","Rhondda Cynon Taff",TRUE
+"Ribble Valley","Ribble Valley",TRUE
+"Richmond upon Thames","Richmond upon Thames",TRUE
+"Richmondshire","Richmondshire",TRUE
+"Rochdale","Rochdale",TRUE
+"Rochford","Rochford",TRUE
+"Rossendale","Rossendale",TRUE
+"Rother","Rother",TRUE
+"Rotherham","Rotherham",TRUE
+"Rugby","Rugby",TRUE
+"Runnymede","Runnymede",TRUE
+"Rushcliffe","Rushcliffe",TRUE
+"Rushmoor","Rushmoor",TRUE
+"Rutland","Rutland",TRUE
+"Ryedale","Ryedale",TRUE
+"Salford","Salford",TRUE
+"Sandwell","Sandwell",TRUE
+"Scarborough","Scarborough",TRUE
+"Scottish Borders","Scottish Borders",TRUE
+"Sedgemoor","Sedgemoor",TRUE
+"Sefton","Sefton",TRUE
+"Selby","Selby",TRUE
+"Sevenoaks","Sevenoaks",TRUE
+"Sheffield","Sheffield",TRUE
+"Shetland Islands","Shetland Islands",TRUE
+"Shropshire","Shropshire",TRUE
+"Slough","Slough",TRUE
+"Solihull","Solihull",TRUE
+"Somerset West and Taunton","Somerset West and Taunton",TRUE
+"South Ayrshire","South Ayrshire",TRUE
+"South Cambridgeshire","South Cambridgeshire",TRUE
+"South Derbyshire","South Derbyshire",TRUE
+"South Gloucestershire","South Gloucestershire",TRUE
+"South Hams","South Hams",TRUE
+"South Holland","South Holland",TRUE
+"South Kesteven","South Kesteven",TRUE
+"South Lakeland","South Lakeland",TRUE
+"South Lanarkshire","South Lanarkshire",TRUE
+"South Norfolk","South Norfolk",TRUE
+"South Oxfordshire","South Oxfordshire",TRUE
+"South Ribble","South Ribble",TRUE
+"South Somerset","South Somerset",TRUE
+"South Staffordshire","South Staffordshire",TRUE
+"South Tyneside","South Tyneside",TRUE
+"Southampton","Southampton",TRUE
+"Southend-on-Sea","Southend-on-Sea",TRUE
+"Southwark","Southwark",TRUE
+"Spelthorne","Spelthorne",TRUE
+"St Albans","St Albans",TRUE
+"St. Helens","St. Helens",TRUE
+"Stafford","Stafford",TRUE
+"Staffordshire Moorlands","Staffordshire Moorlands",TRUE
+"Stevenage","Stevenage",TRUE
+"Stirling","Stirling",TRUE
+"Stockport","Stockport",TRUE
+"Stockton-on-Tees","Stockton-on-Tees",TRUE
+"Stoke-on-Trent","Stoke-on-Trent",TRUE
+"Stratford-on-Avon","Stratford-on-Avon",TRUE
+"Stroud","Stroud",TRUE
+"Sunderland","Sunderland",TRUE
+"Surrey Heath","Surrey Heath",TRUE
+"Sutton","Sutton",TRUE
+"Swale","Swale",TRUE
+"Swansea","Swansea",TRUE
+"Swindon","Swindon",TRUE
+"Tameside","Tameside",TRUE
+"Tamworth","Tamworth",TRUE
+"Tandridge","Tandridge",TRUE
+"Teignbridge","Teignbridge",TRUE
+"Telford and Wrekin","Telford and Wrekin",TRUE
+"Tendring","Tendring",TRUE
+"Test Valley","Test Valley",TRUE
+"Tewkesbury","Tewkesbury",TRUE
+"Thanet","Thanet",TRUE
+"Three Rivers","Three Rivers",TRUE
+"Thurrock","Thurrock",TRUE
+"Tonbridge and Malling","Tonbridge and Malling",TRUE
+"Torbay","Torbay",TRUE
+"Torfaen","Torfaen",TRUE
+"Torridge","Torridge",TRUE
+"Tower Hamlets","Tower Hamlets",TRUE
+"Trafford","Trafford",TRUE
+"Tunbridge Wells","Tunbridge Wells",TRUE
+"Uttlesford","Uttlesford",TRUE
+"Vale of Glamorgan","Vale of Glamorgan",TRUE
+"Vale of White Horse","Vale of White Horse",TRUE
+"Wakefield","Wakefield",TRUE
+"Walsall","Walsall",TRUE
+"Waltham Forest","Waltham Forest",TRUE
+"Wandsworth","Wandsworth",TRUE
+"Warrington","Warrington",TRUE
+"Warwick","Warwick",TRUE
+"Watford","Watford",TRUE
+"Waverley","Waverley",TRUE
+"Wealden","Wealden",TRUE
+"Welwyn Hatfield","Welwyn Hatfield",TRUE
+"West Berkshire","West Berkshire",TRUE
+"West Devon","West Devon",TRUE
+"West Dunbartonshire","West Dunbartonshire",TRUE
+"West Lancashire","West Lancashire",TRUE
+"West Lindsey","West Lindsey",TRUE
+"West Lothian","West Lothian",TRUE
+"West Northamptonshire","West Northamptonshire",TRUE
+"West Oxfordshire","West Oxfordshire",TRUE
+"West Suffolk","West Suffolk",TRUE
+"Westminster","Westminster",TRUE
+"Wigan","Wigan",TRUE
+"Wiltshire","Wiltshire",TRUE
+"Winchester","Winchester",TRUE
+"Windsor and Maidenhead","Windsor and Maidenhead",TRUE
+"Wirral","Wirral",TRUE
+"Woking","Woking",TRUE
+"Wokingham","Wokingham",TRUE
+"Wolverhampton","Wolverhampton",TRUE
+"Worcester","Worcester",TRUE
+"Worthing","Worthing",TRUE
+"Wrexham","Wrexham",TRUE
+"Wychavon","Wychavon",TRUE
+"Wyre","Wyre",TRUE
+"Wyre Forest","Wyre Forest",TRUE
+"York","York",TRUE

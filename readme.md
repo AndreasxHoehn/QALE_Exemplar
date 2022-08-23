@@ -67,10 +67,13 @@ Rau, R., & Schmertmann, C. P. (2020). District-level life expectancy in Germany.
 
 Schmertmann, C. P. (2019). Fitting a TOPALS mortality model with age-grouped data, by Penalized Iteratively Weighted Least Squares (PIRLS). https://github.com/schmert/TOPALS/blob/master/TOPALS_fitting_with_grouped_data.pdf
 
-# Version
+# About
 
-**title:** Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK
+**Version:** 1.0
 
-**author:** Author: Andreas Höhn
+**Date:** 2022-08-23
 
-**date:** 2022-08-23
+**Title:** Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK
+
+**Author:** Author: Andreas Höhn
+

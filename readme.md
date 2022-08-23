@@ -47,7 +47,9 @@ Session. You can then open and run the main control file of the program *01_main
 (CTRL + A then CTRL + ENTER). All results will be stored in the folder *ROutput/*.
 You are free to change parameters in the definitions section of the main control 
 file *01_main.R* , for example change the year of the cross-sectional analysis 
-[Line 75 - Line 95].
+[Line 75 - Line 95]. The pipeline might break the very first time you run it - 
+likely due to the fact that the RSession ist not able to immediately fetch from 
+online sources - just re-run everything again and it should work.
 
 # Bug Reports 
 

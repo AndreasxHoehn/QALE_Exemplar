@@ -112,11 +112,6 @@ if (definitions$US_download == "yes") {
 source("RCode/05_estimate_QALE.R")
 source("RCode/06_create_maps.R")
 
-# Render readme - html Format #
-rmarkdown::render(input = "RCode/07_draft_readme.Rmd",
-            output_file = here::here("readme.html"),
-         output_format = "html_document")
-
 # ---------------------------------------------------------------------------- #
 # ---------------------------------------------------------------------------- #
 

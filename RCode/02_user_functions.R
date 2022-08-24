@@ -237,6 +237,7 @@
   # iteration function: 
   # next alpha vector as a function of current alpha
   #------------------------------------------------
+  
   next_alpha <- function(alpha) {
     mu <- as.vector(exp( std + B %*% alpha))
     M  <- as.vector(W %*% mu)
@@ -338,6 +339,7 @@
 
 ### [6 - C] Run TOPALS + Kannisto Model ###
 
+# about: this function combines TOPALS and Kannisto to be run together
 # input: a 5-year age group life table and a standard population
 # output: a data.table containing a LTB with 1-year age groups which has been 
 # subject to TOPALS smoothing and Kannisto Model
@@ -411,6 +413,7 @@
     age_code, n, mx_topals, mx_topals_kannisto, mx_std,
     qx, ax, lx, dx, Lx, Tx, ex)
   
+  # explicit return
   return(ltb_return)
 }
 
@@ -419,8 +422,10 @@
 
 ### [7] Mapping Age Structure of Survey and Life Tables ###
 
-# input: 
-# output: 
+# about: this function ensures that life tables can be merged with survey utils 
+# input: the life table data set 
+# output: the same life table data set but with a age_code_survey variable 
+# matching the format of what we obtained from understanding society 
 
 .MappingAgesSurveyNOMIS <- function(data_input) {
   data_output <- copy(data_input)

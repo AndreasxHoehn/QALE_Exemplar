@@ -23,14 +23,13 @@ and download
 [Understanding Society - General License Version](https://beta.ukdataservice.ac.uk/datacatalogue/doi/?id=6614#!#16).
 The data set is free and publicly available. Once you have registered with UK 
 data service and agreed to the terms and conditions of using Understanding Society 
-data, you can download all waves of the survey and store them the respective 
-*X_indresp_dta* files of waves *e* to *j* in the program folder 
-*RData/UnderstandingSociety/*. For example for wave *e* the final 
-path would be: *RData/UnderstandingSociety/e_indresp_dta*. You can also skip this 
-stage, in which case you answer "no" in the prompted dialog when running the 
-pipeline. In this case, EQ-5D utility scores derived from wave *j* of 
-Understanding Society are loaded by default, limiting the cross-sectional analysis 
-to the year of 2019.
+data, you can download all waves. Store the downloaded *X_indresp_dta* files 
+of waves *e* to *j* in the program folder *RData/UnderstandingSociety/*. For 
+example for wave *e* the final path would be: *RData/UnderstandingSociety/e_indresp_dta*. 
+You can also skip this stage, in which case you answer "no" in the prompted dialog 
+when running the pipeline. In this case, EQ-5D utility scores derived from wave *j* 
+of Understanding Society are loaded by default, limiting the cross-sectional 
+analysis to the year of 2019.
 
 **3. Mortality Data:**  Create a Human Mortality Database (HMD) Account for data 
 queries using the following link to the 
@@ -71,11 +70,13 @@ Schmertmann, C. P. (2019). Fitting a TOPALS mortality model with age-grouped dat
 
 # About
 
-**Version:** 1.0
-
-**Date:** 2022-08-23
-
 **Title:** Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK
 
 **Author:** Author: Andreas Höhn
+
+**Version:** 0.9
+
+**Updated:** 2022-08-24
+
+
 

@@ -72,9 +72,9 @@ Schmertmann, C. P. (2019). Fitting a TOPALS mortality model with age-grouped dat
 
 **Title:** Estimating Quality-Adjusted Life Expectancy (QALE) for Local Authority Districts in the UK
 
-**Author:** Author: Andreas Höhn
+**Author:** Andreas Höhn
 
-**Version:** 0.9
+**Version:** Beta 0.9
 
 **Updated:** 2022-08-24
 

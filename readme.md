@@ -34,7 +34,7 @@ analysis to the year of 2019.
 **3. Mortality Data:**  Create a Human Mortality Database (HMD) Account for data 
 queries using the following link to the 
 [HMD website - former version](https://former.mortality.org/). We are using the 
-former version of the HMD, as the new version does not proide an API (yet). When 
+former version of the HMD, as the new version does not provide an API (yet). When 
 running the program you will be prompted to enter your username and password for 
 this website. 
 

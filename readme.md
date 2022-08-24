@@ -1,6 +1,6 @@
 # Summary
-Quality-Adjusted Life Expectancy (QALE) is an intuitive summary measure of 
-population health, which combines information on mortality with information on 
+Quality-Adjusted Life Expectancy (QALE) is an intuitive summary metric, which 
+combines information on mortality with information on 
 health. In contrast to Healthy Life Expectancy (HLE), QALE moves away from a 
 binary perspective on health (healthy at age X vs. unhealthy at age X+1) by 
 capturing health on a more granular scale across the entire life course. The 

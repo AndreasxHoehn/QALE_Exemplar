@@ -34,7 +34,7 @@ analysis to the year of 2019.
 **3. Mortality Data:**  Create a Human Mortality Database (HMD) Account for data 
 queries using the following link to the 
 [HMD website - former version](https://former.mortality.org/). We are using the 
-former version of the HMD, as the new version does not provide an API (yet). When 
+former version of the HMD, as the new version does not proide an API (yet). When 
 running the program you will be prompted to enter your username and password for 
 this website. 
 
@@ -49,6 +49,16 @@ file *01_main.R* , for example change the year of the cross-sectional analysis
 [Line 75 - Line 95]. The pipeline might break the very first time you run it - 
 likely due to the fact that the RSession ist not able to immediately fetch from 
 online sources - just re-run everything again and it should work.
+
+# Output
+
+After you have run the pipeline sucessfully, you will recieve output detailing 
+and visualizing the following population health summary metrics
+
+* Life Expectancy: ex
+* Life Span Variation (absolute, years of life lost): e_dagger 
+* Life Span Variation (relative, Keyfitz' entropy ): h
+* Quality Adjusted Life Expectancy: QALE
 
 # Bug Reports 
 
@@ -74,9 +84,9 @@ Schmertmann, C. P. (2019). Fitting a TOPALS mortality model with age-grouped dat
 
 **Author:** Andreas Höhn
 
-**Version:** Beta 0.91
+**Version:** Beta 0.9
 
-**Updated:** 2022-08-30
+**Updated:** 2022-08-24
 
 
 

@@ -74,9 +74,9 @@ Schmertmann, C. P. (2019). Fitting a TOPALS mortality model with age-grouped dat
 
 **Author:** Andreas Höhn
 
-**Version:** Beta 0.9
+**Version:** Beta 0.91
 
-**Updated:** 2022-08-24
+**Updated:** 2022-08-30
 
 
 

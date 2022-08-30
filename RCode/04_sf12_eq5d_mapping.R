@@ -2,7 +2,7 @@
 
 # Author: Andreas Hoehn
 # Version: 1.0
-# Date:  2022-08-22
+# Date:  2022-08-30
 # About: this file maps sf12 to eq5d and estimates utility scores 
 
 # ---------------------------------------------------------------------------- #

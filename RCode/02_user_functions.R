@@ -2,7 +2,7 @@
 
 # Author: Andreas Hoehn
 # Version: 1.0
-# Date:  2022-08-22
+# Date:  2022-08-30
 # About: this file contains all user-written functions 
 
 # ---------------------------------------------------------------------------- #
@@ -402,7 +402,28 @@
   Lx              <- n * c(lx[-1],0) + ax * dx
   Lx[length(Lx)]  <- lx[length(Lx)] / mx_topals_kannisto[length(Lx)]
   Tx              <- rev(cumsum(rev(Lx)))
+  
+  # life expectancy: ex
   ex              <- Tx / lx
+  
+  # lifespan variation: e_dagger - absolute measure 
+  lost_length_dx       <- rep(x = 0, times = length(mx_topals_kannisto))
+  for (i in 1:(length(lost_length_dx))){
+    lost_length_dx[i]  <- (ex[i+1] + 1 - ax[i]) * dx[i]
+  }
+  lost_length_dx[length(lost_length_dx)] <- 0
+  e_dagger       <- rep(x = 0, times = length(mx_topals_kannisto))
+  for (i in 1:(length(e_dagger))) {
+      e_dagger[i]  <- ((1/lx[i]) * 
+                      sum(lost_length_dx[i:(length(lost_length_dx)-1)])) + 
+                      (0.5 * (lx[length(lx)] / lx[i]) * ex[length(ex)])
+       }
+  e_dagger[length(e_dagger)] <- 0
+  
+  # lifespan variation: Keyfitz Entropy - relative measure 
+  h <- e_dagger / ex
+  
+  # return data table 
   ltb_return <- data.table::data.table(
     ID = unique(data_input$ID),
     ctr_code = unique(data_input$ctr_code),
@@ -411,7 +432,7 @@
     year  = unique(data_input$year),
     sex_name = unique(data_input$sex_name), 
     age_code, n, mx_topals, mx_topals_kannisto, mx_std,
-    qx, ax, lx, dx, Lx, Tx, ex)
+    qx, ax, lx, dx, Lx, Tx, ex, e_dagger, h)
   
   # explicit return
   return(ltb_return)

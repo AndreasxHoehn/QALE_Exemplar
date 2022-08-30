@@ -2,7 +2,7 @@
 
 # Author: Andreas Hoehn
 # Version: 1.0
-# Date:  2022-08-22
+# Date:  2022-08-30
 # About: file contains code to access NOMIS and NRS online resources
 
 # ---------------------------------------------------------------------------- #

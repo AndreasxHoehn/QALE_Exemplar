@@ -2,7 +2,7 @@
 
 # Author: Andreas Hoehn
 # Version: 1.0
-# Date:  2022-08-22
+# Date:  2022-08-30
 # About: this file combines life tables and utility scores to estimate QALE 
 
 # ---------------------------------------------------------------------------- #
@@ -92,8 +92,8 @@ LA_life_tables_topals_kannisto[, QALE := p_Tx / lx]
 # LE and QALE Results 
 data.table::fwrite(x = LA_life_tables_topals_kannisto[age_code == 0, 
       .(year, ctr_code, RGN21NM, geography_code,geography_name,
-      sex_name, age_code, LE = ex, QALE)], 
-                   file = "ROutput/data_LE_QALE.csv",
+      sex_name, age_code, ex, e_dagger, h, QALE)], 
+                   file = "ROutput/data_area_metrics.csv",
                    row.names = FALSE, quote = TRUE)
 
 # Save Table with all LA Names

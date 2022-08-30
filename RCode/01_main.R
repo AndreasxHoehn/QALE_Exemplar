@@ -2,7 +2,7 @@
 
 # Author: Andreas Hoehn
 # Version: 1.0
-# Date:  2022-08-24
+# Date:  2022-08-30
 # About: The Main Control File
 
 # ---------------------------------------------------------------------------- #
@@ -15,7 +15,7 @@ rm(list = ls())
 gc(full = TRUE) 
 
 # set seed 
-set.seed(20220819) 
+set.seed(20220830) 
 
 # start benchmarking time 
 benchmark_time <- list() 

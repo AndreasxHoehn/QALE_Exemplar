@@ -4,10 +4,11 @@ combines information on mortality with information on
 health. In contrast to Healthy Life Expectancy (HLE), QALE moves away from a 
 binary perspective on health (healthy at age X vs. unhealthy at age X+1) by 
 capturing health on a more granular scale across the entire life course. The 
-described research pipeline estimates QALE for Local Authority Districts in 
-Scotland, England, and Wales based on publicly available data. This README file 
-provides general guidance on how to run and control the underlying research 
-pipeline. 
+described research pipeline estimates QALE - alongside other summary health 
+metrics such as Life Expectancy and Lifespan Variation - for Local Authority 
+Districts in Scotland, England, and Wales based on publicly available data. 
+This README file provides general guidance on how to run and control the 
+underlying research pipeline.  
 
 # Pre-Requisites
 In order to run the research pipeline in its entity from start to finish, there 

@@ -11,7 +11,7 @@
 ### Merge with Geography Shape File ### 
 
 # source: https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2021-uk-bfe/about
-LA_shapefile <- readOGR("RData/ShapeLookup/LAD_MAY_2021_UK_BFE_V2.shp")
+LA_shapefile <- rgdal::readOGR("RData/ShapeLookup/LAD_MAY_2021_UK_BFE_V2.shp")
 LA_shapefile <- fortify(LA_shapefile, region = "LAD21CD")
 
 # merge results with geography shapefile
